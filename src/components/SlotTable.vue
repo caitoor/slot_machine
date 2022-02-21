@@ -21,9 +21,6 @@
 </template>
 
 <script>
-import jQuery from "jquery";
-const $ = jQuery;
-window.$ = $;
 export default {
   name: "SlotTable",
   props: { settings: Object },
